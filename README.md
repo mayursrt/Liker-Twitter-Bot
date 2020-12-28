@@ -12,7 +12,10 @@ How to use:<br>
 <li>You need to create and configure the API from dashboard.</li>
 <li>You will get the authentication keys once everything is done.</li>
 <li>For more information on Twitter API visit https://developer.twitter.com/en/docs/getting-started</li>
-<li>Install necessary Packages. (Tweepy)</li>
+<li>Install necessary Packages(Tweepy):
+
+		pip install Tweepy
+</li>
 <li>Enter your authentication codes in the script.</li>
 <li>Enter the keyword you want it to search for in the tweets.</li>
 <li>Also enter the number of tweets you want the bot to find and like as per the keyword entered.</li>
